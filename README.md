@@ -1,4 +1,4 @@
-🟢 Job Portal System
+# Job Portal System
  ->This project is a console-based job portal where employers can post and manage job listings, and job seekers can view, filter, and sort available jobs.
 
 * Features
